@@ -1,0 +1,18 @@
+{
+  "name": "api-rest-con-express-y-mysql",
+  "version": "1.0.0",
+  "description": "practica api rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "seb-rm",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.1",
+    "mysql2": "^3.9.2",
+    "sequelize": "^6.37.1"
+  }
+}
